@@ -59,11 +59,13 @@ var numberTwo = 2
 var comparison = numberOne < numberTwo
 
 
-var placeOne = 2
+var myFirstproblem = "the string is wrapped on the tree"
 
-var placeTwo = 4
+var mySecondproblem = "the string has to be cut"
 
-var Comparison = placeOne < placeTwo
+
+var mythirdproblem = myFirstproblem + mySecondproblem
+
 
 
 
